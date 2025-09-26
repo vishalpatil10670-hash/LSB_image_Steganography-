@@ -55,4 +55,7 @@ Read BMP header.
 Extract message length from LSBs.
 Read bits from LSBs and reconstruct the secret message.
 Save decoded message to a text file.
+
+
+
 ✨ Built with ❤️ using C and the magic of Steganography ✨
